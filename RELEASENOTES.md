@@ -19,6 +19,9 @@
 #
 -->
 # Release Notes
+
+### 1.5.2 (March 10,2022)
+* Removed whitelist dependency
                                               
 ### 1.5.1 (Apr 15, 2016)
 * CB-10536 Removing flaky test assertions about abort callback latency
